@@ -3,25 +3,30 @@
 
 A bird strike is strictly defined as a collision between a bird and an aircraft which is in flight or on a take-off or landing roll. The term is often expanded to cover other wildlife strikes - with bats or ground animals. Bird Strike is common and can be a significant threat to aircraft safety. For smaller aircraft, significant damage may be caused to the aircraft structure and all aircraft, especially jet-engine ones, are vulnerable to the loss of thrust which can follow the ingestion of birds into engine air intakes. This has resulted in several fatal accidents. Bird strikes may occur during any phase of flight, but are most likely during the take-off, initial climb, approach and landing phases due to the greater numbers of birds in flight at lower levels.
 
-image
+![Aircraft](https://github.com/user-attachments/assets/a28c2fb3-c5ba-4648-8209-00432abb3a8e)
+
+
 
 ## 🔎 Background ##
 The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-2011. The objective of the project is to tell visual story using the data and find meanungful insights using a Bi Tool.
 
 ## 📊EDA ##
 ### 1. Yearly Analysis ###
-image
+![IMAGE 1](https://github.com/user-attachments/assets/930c0cda-19db-44d4-8f32-ccfb1fced6ac)
+
 
 ## 📌 We can see that 2009 has then highest number of bird strike incidents.
 
 ## 2. Bird Strikes in US ##
-image
+![IMAGE 2](https://github.com/user-attachments/assets/61d1bc9b-d35a-4801-b86d-01493da46e30)
+
 
 ### 📌 California, Texas and Florida has the highest number of bird strike incidents. ###
 
 
 ## 3. When do most bird strikes occur? ##
-image
+![IMAGE 3](https://github.com/user-attachments/assets/75cafcd8-0dee-4d25-a9e0-c6d13fada6b9)
+
 
 ### 📌 Most of the incidents have happened when there is no cloud in each year ###
 
