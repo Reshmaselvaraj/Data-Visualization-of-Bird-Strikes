@@ -40,9 +40,12 @@ Prior warning to the pilot reduces the risk of damage to the aircraft
 
 ## Tools Used ##
 
-Power Bi
-R Programming
+Tableau
+
+Python Programming
+
 MS Excel
+
 Jupyter Notebook
 
 
